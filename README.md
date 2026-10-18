@@ -11,3 +11,14 @@ sending input to webMAN MOD's virtual pad API over LAN.
 - Same network
 - python3-evdev
 - python3-requests   
+
+"Fire TV Remote","PS3 Button"
+"D-pad","D-pad"
+"OK (center)","X (Cross)"
+"Back","O (Circle)"
+"Home","PS button"
+"Menu","Triangle"
+"Play/Pause","Square"
+"Rewind","Select"
+"Fast Forward","Start"
+"Power","Shutdown / Wake PS3"
