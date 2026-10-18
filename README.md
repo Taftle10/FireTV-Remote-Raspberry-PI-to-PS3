@@ -1,2 +1,11 @@
 # FireTV-Remote-Raspberry-PI-to-PS3
-Allows you to use your fire tv remote (can be modified for other remotes) by connecting it to a raspberry pi then running a python script that accesses WebManMOD scripts/urls to send inputs to the PS3, can also wake it up with a wake on lan script.
+
+Turns an Amazon Fire TV Remote into a PS3 controller via a Raspberry Pi,
+sending input to webMAN MOD's virtual pad API over LAN.
+
+## Requirements
+
+- Raspberry Pi 3/4/5 (Raspberry Pi OS, Lite or Desktop)
+- PS3 with webMAN MOD installed
+- Amazon Fire TV Remote (BLE)
+- Same network
