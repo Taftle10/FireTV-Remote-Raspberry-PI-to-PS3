@@ -9,3 +9,5 @@ sending input to webMAN MOD's virtual pad API over LAN.
 - PS3 with webMAN MOD installed
 - Amazon Fire TV Remote (BLE)
 - Same network
+- python3-evdev
+- python3-requests   
